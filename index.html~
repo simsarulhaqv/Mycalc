@@ -39,6 +39,10 @@
 <body>
 
   <!-- Primary layout _______________________________________________ -->
+
+    	<div>
+			<input id="btnclickme" type="button" value="Click Me" onclick="WriteText()" />
+		</div>
 	
 
 

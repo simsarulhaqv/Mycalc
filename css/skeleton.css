@@ -48,7 +48,17 @@
   width: 100%;
   float: left;
   box-sizing: border-box; }
-  
+
+/* To add background image to calculator
+
+#calc_form {
+
+	background-image: url("../images/calc_back.jpg");
+	background-size: 300px 500px;
+    background-repeat: no-repeat;
+}  
+* 
+* */
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
