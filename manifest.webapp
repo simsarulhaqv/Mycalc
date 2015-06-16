@@ -1,14 +1,14 @@
 {
   "name": "My Calc",
   "description": "My simple Calculator",
-  "launch_path": "/index.html",
+  "launch_path": "/Mycalc/index.html",
   "icons": {
     "512": "/images/icon.png",
     "128": "/images/icon.png"
   },
   "developer": {
     "name": "simsarul haq vengasseri",
-    "url": "http://simsarulhaqv.github.io/Mycalc"
+    "url": "http://simsarulhaqv.github.io"
   },
   "default_locale": "en"
 }
